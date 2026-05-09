@@ -1,5 +1,5 @@
 variables:
-  baseName: edinmedi-adb360
+  baseName: adb3600509
   env: dev
   resourcegroup: rg-uks-$(baseName)-$(env)
   location: uksouth
